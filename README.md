@@ -3,9 +3,9 @@
 
 
 <h4>
-🔹 📚 Oq estudo hj em dia? 
+🔹 📚 Oq estudo hj em dia? <br>
   Front: ReactJS e Vue
-  Back: Python e C#
+  | Back: Python e C#
   
 🔸 😄 Pronouns: All 💕
 <h4>
