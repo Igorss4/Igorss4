@@ -1,9 +1,11 @@
 <h2>
-!! Hi there 😎 welcome to my Github! Im Igor !!
+!! Olá a Você!! Bem vinde ao meu GitHub 🤩🤩 Me chamo Igor Santos!!
 
 
 <h4>
-🔹 🌱 I’m currently learning Java  
+🔹 📚 Oq estudo hj em dia? 
+  Front: ReactJS e Vue
+  Back: Python e C#
   
 🔸 😄 Pronouns: All 💕
 <h4>
