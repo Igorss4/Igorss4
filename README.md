@@ -27,6 +27,7 @@
     <img align="right" alt="dockerl" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <img align="right" alt="Postman" height="40" width="40"
          src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png"/>
+          <img align="right" alt="angular" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" />
     <img align="left" alt="riven" height="150" style="border-radius:50px;"                        src="https://cdn.discordapp.com/attachments/941392899109699616/959577636487696494/rivengif.gif">
     
 </div>
