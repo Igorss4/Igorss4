@@ -4,7 +4,7 @@
 
 <h4>
 🔹 📚 Oq estudo hj em dia?  
-    Front: Angular e React
+    Front: Angular
   | Back: Java, C# e PHP
   
 🔸 😄 Pronouns: All 💕
