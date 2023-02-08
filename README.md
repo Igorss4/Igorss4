@@ -5,7 +5,8 @@
 <h4>
 🔹 📚 Oq estudo hj em dia?  
     Front: Angular
-  | Back: Java, C# e PHP
+  | Back: Java e C#
+    Cursando Analise e Desenvolvimentos de Sistemas - Anhembi Morumbi
   
 🔸 😄 Pronouns: All 💕
 <h4>
