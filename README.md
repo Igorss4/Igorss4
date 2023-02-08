@@ -6,7 +6,7 @@
 🔹 📚 Oq estudo hj em dia?  
     Front: Angular
   | Back: Java e C#
-    Cursando Analise e Desenvolvimentos de Sistemas - Anhembi Morumbi
+   <br> Cursando Analise e Desenvolvimentos de Sistemas - Anhembi Morumbi
   
 🔸 😄 Pronouns: All 💕
 <h4>
