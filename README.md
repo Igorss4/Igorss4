@@ -45,3 +45,7 @@
 
      
 </div>
+       
+#
+       
+![Snake animation](https://github.com/Igorss4/Igorss4/blob/output/github-contribution-grid-snake.svg)
