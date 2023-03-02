@@ -14,11 +14,7 @@
   
 
   
-<div align="center"> <! -- GitHub status -->
-   <a href="https://github.com/Igorss4">
-   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Igorss4&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorss4&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
+
   
   <div style="display: inline_block"><br> <! -- technonogies icons -->
     <img align="right" alt="Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/>
